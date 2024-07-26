@@ -55,7 +55,7 @@ MyShop is an Ecommerce web application built with Next.js and MongoDB.
 
 # 🏃‍♀️ Running
 
--   Clone repo Run `git clone https://github.com/mythofmidas/E-Commerce-Next.git`
+-   Clone repo Run `git clone https://github.com/mythofmidas/E-Commerce-NextJS.git`
 -   Run `npm i`
 -   Run `npm run dev`
 -   See `http://localhost:3000`
